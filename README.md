@@ -1,10 +1,10 @@
-Marriage, Divorce & Relationship Change in New Zealand
+# Marriage, Divorce & Relationship Change in New Zealand
 
 Project Overview:
 This project investigates marriage, divorce, and relationship change in New Zealand through an integrated, multi-source data-analysis approach. The project combines official New Zealand statistics, legal information, demographic indicators, and government open-data metadata to examine how formal relationships have changed over time and the broader social, demographic, and legal factors that provide context for those changes.
 
 The analysis is centred on eight research questions (RQ1–RQ8) and uses four complementary data sources:
-#	Data Source	Type	Period
+Data Source	Type	Period
 1	Statistics New Zealand — 5 CSV files	Static local CSV	2005–2020
 2	Community Law NZ — 3 pages	Dynamic web scraping	Runtime
 3	Gapminder Systema Globalis	Dynamic remote file retrieval	2005–2022
